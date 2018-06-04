@@ -1,0 +1,47 @@
+.container-story {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  flex-direction: column;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 20px;
+  text-align: center;
+  background: #036C84;
+}
+
+.gif {
+  box-shadow: 1px 1px 12px #555;
+  border-radius: 30px;
+}
+
+.container-reply {
+  padding-top: 20px;
+}
+
+.container-reply1 {
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 1px 1px 12px #555;
+}
+
+.container-reply2 {
+  margin-top: 20px;
+  border-radius: 8px;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 1px 1px 12px #555;
+}
+
+.text-dialogue {
+  background-color: #fff;
+  border-radius: 8px;
+  position: absolute;
+  padding: 8px;
+  margin-top: -195px;
+  margin-left: 475px;
+}
